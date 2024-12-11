@@ -2,7 +2,7 @@ const sentence = 'I am learning web dev.';
 //one way to reverse
 for(const letter of sentence){
     console.log(letter)
-// }
+}
 
 // // another  way 
 let reverse = '';
